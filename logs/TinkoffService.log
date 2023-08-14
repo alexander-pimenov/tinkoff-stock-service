@@ -1,0 +1,6 @@
+2022-05-04 20:26:07.134  INFO 22744 --- [main] c.p.t.controllers.StockControllerTest    : Starting StockControllerTest using Java 11.0.11 on EPRUMOSW0288 with PID 22744 (started by Alexander_Pimenov in C:\projects_java\tinkoff-stock-service)
+2022-05-04 20:26:07.136  INFO 22744 --- [main] c.p.t.controllers.StockControllerTest    : No active profile set, falling back to 1 default profile: "default"
+2022-05-04 20:26:10.212  INFO 22744 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2022-05-04 20:26:10.213  INFO 22744 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2022-05-04 20:26:10.216  INFO 22744 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 2 ms
+2022-05-04 20:26:10.271  INFO 22744 --- [main] c.p.t.controllers.StockControllerTest    : Started StockControllerTest in 3.912 seconds (JVM running for 5.495)

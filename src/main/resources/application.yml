@@ -1,0 +1,11 @@
+server:
+  port: 8004
+
+api:
+  isSandBoxMode: true
+
+logging:
+  file:
+    name: logs/TinkoffService.log
+  level:
+    root: INFO

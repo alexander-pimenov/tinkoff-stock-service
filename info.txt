@@ -1,0 +1,27 @@
+Spring Boot микросервис на Java для получения информации о ценных бумагах
+и стоимости с Tinkoff API
+
+Spring Boot микросервис для получения акций с Tinkoff API
+https://www.youtube.com/watch?v=V9vm38grr6o&t=406s
+
+GitHub репозиторий - https://github.com/kegisa/TinkoffStockService
+DockerHub - https://hub.docker.com/r/kegisa/stock-tinkoff-service
+
+Tinkoff Java SDK - https://github.com/Tinkoff/invest-openapi-java-sdk
+Tinkoff API документация - https://tinkoff.github.io/investAPI/
+https://github.com/Tinkoff/investAPI
+
+Получить токен для входа в тиньков не получилось поэтому в ssoToken= ничего не прописано.
+
+Поддержать каналу - https://yoomoney.ru/to/4100117763467104
+https://t.me/kegisa
+iam@victorlevin.com
+
+Добавляем зависимость от Tinkoff в наш pom.xml
+
+С помощью SWAGGER можно кидать запросы из браузера.
+
+
+
+
+
